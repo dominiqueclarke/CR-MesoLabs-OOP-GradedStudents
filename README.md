@@ -333,7 +333,7 @@
 <br><br><br><br><br>
 
 * **Define method `getAverageExamScore()`**
-	* Define a getter which returns the sum of all exams divded by the number of students.
+	* Define a getter which returns the sum of all student average exam scores divided by the number of students.
 
 
 		* Sample Script:
